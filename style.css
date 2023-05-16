@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background: #982121;
+    color: #ff611d;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+a {
+    color: #ffb80e;
+}
+
+p,
+ul,
+ol {
+    color: #fff;
+}
+
+.recipePages {
+    text-align: left;
+}
